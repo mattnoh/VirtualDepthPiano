@@ -8,9 +8,6 @@ A virtual piano that uses your phone camera to detect finger movements and play 
 
 This project creates a virtual piano interface using computer vision.
 
-![Virtual Piano Interface](https://via.placeholder.com/600x400/0000FF/FFFFFF?text=Virtual+Piano+Interface)
-*Figure 1: The virtual piano interface*
-
 ## Key Features
 
 - **Real-time hand tracking** using MediaPipe
@@ -18,22 +15,16 @@ This project creates a virtual piano interface using computer vision.
 - **Multi-finger support** for playing chords
 - **Visual feedback** with colored finger indicators
 
-## 🛠️ How It Works
 
-
-### Technology Stack
-
-| Technology | Purpose |
+| Uses | Purpose |
 |------------|---------|
 | **MediaPipe** | Real-time hand landmark detection |
 | **MiDaS** | Depth estimation from single images |
 | **OpenCV** | Video processing and interface rendering |
 | **Python** | Main programming language |
 
-![MediaPipe Hand Landmarks](https://via.placeholder.com/400x300/FF0000/FFFFFF?text=Hand+Landmarks+Detection)
-*Figure 2: MediaPipe finger landmark detection*
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 virtual-piano/
